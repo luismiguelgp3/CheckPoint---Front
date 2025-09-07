@@ -1,4 +1,4 @@
-# CheckPoint---Front
+# CheckPoint Front
 
 Participantes
 
